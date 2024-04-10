@@ -17,7 +17,7 @@ code = "https://github.com/jovandeginste/workout-tracker"
 [integration]
 yunohost = ">= 11.2"
 architectures = ["amd64", "arm64"]
-multi_instance = true
+multi_instance = false
 
 ldap = false
 
@@ -31,10 +31,6 @@ ram.runtime = "50M"
     [install.domain]
     type = "domain"
 
-    [install.path]
-    type = "path"
-    default = "/example"
-
     [install.init_main_permission]
     type = "group"
     default = "visitors"
@@ -46,9 +42,11 @@ ram.runtime = "50M"
     [resources.sources.main]
     amd64.url = "https://github.com/jovandeginste/workout-tracker/releases/download/v0.11.5/workout-tracker-v0.11.5-linux-amd64.tar.gz"
     amd64.sha256 = "b02e4479fe8f9e4b1534084643bf1ebb68e0162f5c64a5f7f9824684294bf4c8"
-
+    
     arm64.url = "https://github.com/jovandeginste/workout-tracker/releases/download/v0.11.5/workout-tracker-v0.11.5-linux-arm64.tar.gz"
     arm64.sha256 = "fe8fe7c021c926aab3de8c497319578eb222c5e15030f33a7fcb4e1e4f61c93c"
+    
+    in_subdir = false
 
     autoupdate.strategy = "latest_github_release"
     autoupdate.asset.amd64 = ".*linux-amd64.tar.gz"
@@ -57,8 +55,6 @@ ram.runtime = "50M"
     [resources.system_user]
 
     [resources.install_dir]
-
-    [resources.data_dir]
 
     [resources.permissions]
     main.url = "/"
