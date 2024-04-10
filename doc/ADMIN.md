@@ -1,3 +1,5 @@
-This is a dummy admin doc for this app
+First user is:
+- user: admin
+- password: admin
 
-The app install dir is `__INSTALL_DIR__`
+Don’t forget to change it! You can do it easily in the app settings.

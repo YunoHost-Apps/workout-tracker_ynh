@@ -1,1 +1,1 @@
-This is a dummy description of this app features
+A workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities
