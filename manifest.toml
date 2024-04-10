@@ -46,11 +46,11 @@ ram.runtime = "50M"
     [resources.sources.main]
     amd64.url = "https://github.com/jovandeginste/workout-tracker/releases/download/v0.11.5/workout-tracker-v0.11.5-linux-amd64.tar.gz"
     amd64.sha256 = "b02e4479fe8f9e4b1534084643bf1ebb68e0162f5c64a5f7f9824684294bf4c8"
-    amd64.in_subdir = false
+    in_subdir = false
 
     arm64.url = "https://github.com/jovandeginste/workout-tracker/releases/download/v0.11.5/workout-tracker-v0.11.5-linux-arm64.tar.gz"
     arm64.sha256 = "fe8fe7c021c926aab3de8c497319578eb222c5e15030f33a7fcb4e1e4f61c93c"
-    arm64.in_subdir = false
+    in_subdir = false
 
     autoupdate.strategy = "latest_github_release"
     autoupdate.asset.amd64 = ".*linux-amd64.tar.gz"
