@@ -16,14 +16,13 @@ NON debe editarse manualmente.
 
 ## Vista xeral
 
-This is a dummy description of this app features
-
+A workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities
 
 **Versión proporcionada:** 0.11.5~ynh1
 
 ## Capturas de pantalla
 
-![Captura de pantalla de workout-tracker](./doc/screenshots/example.jpg)
+![Captura de pantalla de workout-tracker](./doc/screenshots/screenshot.jpg)
 
 ## Documentación e recursos
 
