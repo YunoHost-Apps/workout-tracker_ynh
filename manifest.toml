@@ -17,7 +17,7 @@ code = "https://github.com/jovandeginste/workout-tracker"
 [integration]
 yunohost = ">= 11.2"
 architectures = ["amd64", "arm64"]
-multi_instance = true
+multi_instance = false
 
 ldap = false
 
