@@ -35,6 +35,13 @@ ram.runtime = "50M"
     type = "group"
     default = "visitors"
 
+    [install.registration]
+    ask.en = "Do you want to autorize registrations to this app?"
+    type = "select"
+    choices = ["true", "false"]
+    default = false
+    optional = true
+
 [resources]
 
     [resources.sources]
