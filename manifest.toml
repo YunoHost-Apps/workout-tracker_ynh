@@ -37,8 +37,7 @@ ram.runtime = "50M"
 
     [install.registration]
     ask.en = "Do you want to autorize registrations to this app?"
-    type = "select"
-    choices = ["true", "false"]
+    type = "boolean"
     default = false
     optional = true
 
