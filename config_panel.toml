@@ -6,12 +6,6 @@
 
 version = "1.0"
 
-if [ $registration == "0" ]; then
-	registration="true"
-else
-	registration="false"
-fi
-
 [main]
 name.en = "Main configuration"
 name.fr = "Configuration principale"
