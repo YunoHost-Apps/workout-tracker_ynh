@@ -13,9 +13,9 @@ jwt_key=$(ynh_string_random --length=45 | base64)
 ynh_app_setting_set --app=$app --key=jwt_key --value=$jwt_key
 
 if [ $registration == "0" ]; then
-	registration="false"
-else
 	registration="true"
+else
+	registration="false"
 fi
 
 
