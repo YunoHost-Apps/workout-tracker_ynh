@@ -36,7 +36,7 @@ ram.runtime = "50M"
     default = "visitors"
 
     [install.registration]
-    ask.en = "Do you want to autorize registrations to this app?"
+    ask.en = "Do you want to disable registrations to this app?"
     type = "boolean"
     default = false
     optional = true
