@@ -16,9 +16,9 @@ services = ["__APP__"]
     name.fr = "Options de configuration"
 
         [main.config.registration]
-        ask.en = "Enable user registration?"
-        ask.fr = "Autoriser l’inscription d’utilisateurs ?"
+        ask.en = "Disable user registration?"
+        ask.fr = "Désactiver l’inscription d’utilisateurs ?"
         type = "boolean"
-        1 = "false"
-        0 = "true"
+        yes = "true"
+        no = "false"
         bind = "WT_REGISTRATION_DISABLED:/var/www/__APP__/.env"
