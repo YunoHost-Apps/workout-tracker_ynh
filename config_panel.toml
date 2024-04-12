@@ -19,4 +19,6 @@ services = ["__APP__"]
         ask.en = "Enable user registration?"
         ask.fr = "Autoriser l’inscription d’utilisateurs ?"
         type = "boolean"
+        yes = "false"
+        no = "true"
         bind = "WT_REGISTRATION_DISABLED:/var/www/__APP__/.env"
