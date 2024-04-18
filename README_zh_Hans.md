@@ -18,7 +18,7 @@
 
 A workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities
 
-**分发版本：** 0.13.3~ynh1
+**分发版本：** 0.13.4~ynh1
 
 ## 截图
 
