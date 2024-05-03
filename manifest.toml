@@ -3,7 +3,7 @@
 packaging_format = 2
 
 id = "workout-tracker"
-name = "workout-tracker"
+name = "Workout Tracker"
 description.en = "A workout tracking web application for personal use (or family, friends) geared towards running and other GPX-based activities"
 
 version = "0.14.2~ynh1"
