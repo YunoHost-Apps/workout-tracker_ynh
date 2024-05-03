@@ -3,15 +3,15 @@ Ohart ongi: README hau automatikoki sortu da <https://github.com/YunoHost/apps/t
 EZ editatu eskuz.
 -->
 
-# workout-tracker YunoHost-erako
+# Workout Tracker YunoHost-erako
 
 [![Integrazio maila](https://dash.yunohost.org/integration/workout-tracker.svg)](https://dash.yunohost.org/appci/app/workout-tracker) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/workout-tracker.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/workout-tracker.maintain.svg)
 
-[![Instalatu workout-tracker YunoHost-ekin](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=workout-tracker)
+[![Instalatu Workout Tracker YunoHost-ekin](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=workout-tracker)
 
 *[Irakurri README hau beste hizkuntzatan.](./ALL_README.md)*
 
-> *Pakete honek workout-tracker YunoHost zerbitzari batean azkar eta zailtasunik gabe instalatzea ahalbidetzen dizu.*  
+> *Pakete honek Workout Tracker YunoHost zerbitzari batean azkar eta zailtasunik gabe instalatzea ahalbidetzen dizu.*  
 > *YunoHost ez baduzu, kontsultatu [gida](https://yunohost.org/install) nola instalatu ikasteko.*
 
 ## Aurreikuspena
@@ -22,7 +22,7 @@ A workout tracking web application for personal use (or family, friends), geared
 
 ## Pantaila-argazkiak
 
-![workout-tracker(r)en pantaila-argazkia](./doc/screenshots/screenshot.jpg)
+![Workout Tracker(r)en pantaila-argazkia](./doc/screenshots/screenshot.jpg)
 
 ## Dokumentazioa eta baliabideak
 

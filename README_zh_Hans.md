@@ -3,15 +3,15 @@
 请勿手动编辑。
 -->
 
-# YunoHost 的 workout-tracker
+# YunoHost 的 Workout Tracker
 
 [![集成程度](https://dash.yunohost.org/integration/workout-tracker.svg)](https://dash.yunohost.org/appci/app/workout-tracker) ![工作状态](https://ci-apps.yunohost.org/ci/badges/workout-tracker.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/workout-tracker.maintain.svg)
 
-[![使用 YunoHost 安装 workout-tracker](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=workout-tracker)
+[![使用 YunoHost 安装 Workout Tracker](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=workout-tracker)
 
 *[阅读此 README 的其它语言版本。](./ALL_README.md)*
 
-> *通过此软件包，您可以在 YunoHost 服务器上快速、简单地安装 workout-tracker。*  
+> *通过此软件包，您可以在 YunoHost 服务器上快速、简单地安装 Workout Tracker。*  
 > *如果您还没有 YunoHost，请参阅[指南](https://yunohost.org/install)了解如何安装它。*
 
 ## 概况
@@ -22,7 +22,7 @@ A workout tracking web application for personal use (or family, friends), geared
 
 ## 截图
 
-![workout-tracker 的截图](./doc/screenshots/screenshot.jpg)
+![Workout Tracker 的截图](./doc/screenshots/screenshot.jpg)
 
 ## 文档与资源
 
