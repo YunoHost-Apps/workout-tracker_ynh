@@ -6,7 +6,7 @@ id = "workout-tracker"
 name = "Workout Tracker"
 description.en = "A workout tracking web application for personal use (or family, friends) geared towards running and other GPX-based activities"
 
-version = "1.16.4~ynh1"
+version = "1.16.5~ynh1"
 
 maintainers = ["Thovi98"]
 
@@ -40,11 +40,11 @@ ram.runtime = "50M"
     [resources.sources]
 
     [resources.sources.main]
-    amd64.url = "https://github.com/jovandeginste/workout-tracker/releases/download/v1.16.4/workout-tracker-v1.16.4-linux-amd64.tar.gz"
-    amd64.sha256 = "ea0283b1f26c49b9350d7e3de659d6870a2038d7c3295af362b730ac1d2b6695"
+    amd64.url = "https://github.com/jovandeginste/workout-tracker/releases/download/v1.16.5/workout-tracker-v1.16.5-linux-amd64.tar.gz"
+    amd64.sha256 = "27ceb33a138cca6bd0e585ce5f491a2689607179893f0d4eeb245940a715feb4"
     
-    arm64.url = "https://github.com/jovandeginste/workout-tracker/releases/download/v1.16.4/workout-tracker-v1.16.4-linux-arm64.tar.gz"
-    arm64.sha256 = "5d89f063c75723713b12ffc71c4df61a073a6aaae280c57abe7efe548ed028c8"
+    arm64.url = "https://github.com/jovandeginste/workout-tracker/releases/download/v1.16.5/workout-tracker-v1.16.5-linux-arm64.tar.gz"
+    arm64.sha256 = "51b4435279a6d0ab5bc698e8005444496231c7fea648fa71658cc09e13d87925"
     
     in_subdir = false
 
