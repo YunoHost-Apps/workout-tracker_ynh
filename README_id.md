@@ -18,7 +18,7 @@ Ini TIDAK boleh diedit dengan tangan.
 
 A workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities
 
-**Versi terkirim:** 1.17.0~ynh1
+**Versi terkirim:** 1.17.1~ynh1
 
 ## Tangkapan Layar
 
