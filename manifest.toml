@@ -6,7 +6,7 @@ id = "workout-tracker"
 name = "Workout Tracker"
 description.en = "A workout tracking web application for personal use (or family, friends) geared towards running and other GPX-based activities"
 
-version = "1.18.1~ynh1"
+version = "1.18.1~ynh2"
 
 maintainers = ["Thovi98"]
 
