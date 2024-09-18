@@ -6,7 +6,7 @@ id = "workout-tracker"
 name = "Workout Tracker"
 description.en = "A workout tracking web application for personal use (or family, friends) geared towards running and other GPX-based activities"
 
-version = "1.18.1~ynh1"
+version = "1.18.1~ynh2"
 
 maintainers = ["Thovi98"]
 
@@ -15,7 +15,8 @@ license = "MIT"
 code = "https://github.com/jovandeginste/workout-tracker"
 
 [integration]
-yunohost = ">= 11.2"
+yunohost = ">= 11.2.18"
+helpers_version = "2.1"
 architectures = ["amd64", "arm64"]
 multi_instance = false
 
