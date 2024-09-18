@@ -18,7 +18,7 @@ No se debe editar a mano.
 
 A workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities
 
-**Versión actual:** 1.18.1~ynh1
+**Versión actual:** 1.18.1~ynh2
 
 ## Capturas
 
@@ -32,7 +32,7 @@ A workout tracking web application for personal use (or family, friends), geared
 
 ## Información para desarrolladores
 
-Por favor enviar sus correcciones a la [`branch testing`](https://github.com/YunoHost-Apps/workout-tracker_ynh/tree/testing
+Por favor enviar sus correcciones a la [rama `testing`](https://github.com/YunoHost-Apps/workout-tracker_ynh/tree/testing).
 
 Para probar la rama `testing`, sigue asÍ:
 
