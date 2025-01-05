@@ -5,7 +5,9 @@ No se debe editar a mano.
 
 # Workout Tracker para Yunohost
 
-[![Nivel de integración](https://dash.yunohost.org/integration/workout-tracker.svg)](https://ci-apps.yunohost.org/ci/apps/workout-tracker/) ![Estado funcional](https://ci-apps.yunohost.org/ci/badges/workout-tracker.status.svg) ![Estado En Mantención](https://ci-apps.yunohost.org/ci/badges/workout-tracker.maintain.svg)
+[![Nivel de integración](https://apps.yunohost.org/badge/integration/workout-tracker)](https://ci-apps.yunohost.org/ci/apps/workout-tracker/)
+![Estado funcional](https://apps.yunohost.org/badge/state/workout-tracker)
+![Estado En Mantención](https://apps.yunohost.org/badge/maintained/workout-tracker)
 
 [![Instalar Workout Tracker con Yunhost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=workout-tracker)
 
@@ -18,7 +20,7 @@ No se debe editar a mano.
 
 A workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities
 
-**Versión actual:** 1.18.1~ynh2
+**Versión actual:** 2.0.0~ynh1
 
 ## Capturas
 

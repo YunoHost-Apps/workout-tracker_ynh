@@ -5,7 +5,9 @@
 
 # YunoHost 上的 Workout Tracker
 
-[![集成程度](https://dash.yunohost.org/integration/workout-tracker.svg)](https://ci-apps.yunohost.org/ci/apps/workout-tracker/) ![工作状态](https://ci-apps.yunohost.org/ci/badges/workout-tracker.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/workout-tracker.maintain.svg)
+[![集成程度](https://apps.yunohost.org/badge/integration/workout-tracker)](https://ci-apps.yunohost.org/ci/apps/workout-tracker/)
+![工作状态](https://apps.yunohost.org/badge/state/workout-tracker)
+![维护状态](https://apps.yunohost.org/badge/maintained/workout-tracker)
 
 [![使用 YunoHost 安装 Workout Tracker](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=workout-tracker)
 
@@ -18,7 +20,7 @@
 
 A workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities
 
-**分发版本：** 1.18.1~ynh2
+**分发版本：** 2.0.0~ynh1
 
 ## 截图
 

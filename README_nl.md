@@ -5,7 +5,9 @@ Hij mag NIET handmatig aangepast worden.
 
 # Workout Tracker voor Yunohost
 
-[![Integratieniveau](https://dash.yunohost.org/integration/workout-tracker.svg)](https://ci-apps.yunohost.org/ci/apps/workout-tracker/) ![Mate van functioneren](https://ci-apps.yunohost.org/ci/badges/workout-tracker.status.svg) ![Onderhoudsstatus](https://ci-apps.yunohost.org/ci/badges/workout-tracker.maintain.svg)
+[![Integratieniveau](https://apps.yunohost.org/badge/integration/workout-tracker)](https://ci-apps.yunohost.org/ci/apps/workout-tracker/)
+![Mate van functioneren](https://apps.yunohost.org/badge/state/workout-tracker)
+![Onderhoudsstatus](https://apps.yunohost.org/badge/maintained/workout-tracker)
 
 [![Workout Tracker met Yunohost installeren](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=workout-tracker)
 
@@ -18,7 +20,7 @@ Hij mag NIET handmatig aangepast worden.
 
 A workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities
 
-**Geleverde versie:** 1.18.1~ynh2
+**Geleverde versie:** 2.0.0~ynh1
 
 ## Schermafdrukken
 
