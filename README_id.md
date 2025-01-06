@@ -5,7 +5,9 @@ Ini TIDAK boleh diedit dengan tangan.
 
 # Workout Tracker untuk YunoHost
 
-[![Tingkat integrasi](https://dash.yunohost.org/integration/workout-tracker.svg)](https://ci-apps.yunohost.org/ci/apps/workout-tracker/) ![Status kerja](https://ci-apps.yunohost.org/ci/badges/workout-tracker.status.svg) ![Status pemeliharaan](https://ci-apps.yunohost.org/ci/badges/workout-tracker.maintain.svg)
+[![Tingkat integrasi](https://apps.yunohost.org/badge/integration/workout-tracker)](https://ci-apps.yunohost.org/ci/apps/workout-tracker/)
+![Status kerja](https://apps.yunohost.org/badge/state/workout-tracker)
+![Status pemeliharaan](https://apps.yunohost.org/badge/maintained/workout-tracker)
 
 [![Pasang Workout Tracker dengan YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=workout-tracker)
 
@@ -18,7 +20,7 @@ Ini TIDAK boleh diedit dengan tangan.
 
 A workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities
 
-**Versi terkirim:** 1.18.1~ynh2
+**Versi terkirim:** 2.0.0~ynh1
 
 ## Tangkapan Layar
 
