@@ -20,7 +20,7 @@ Nie powinno być ono edytowane ręcznie.
 
 A workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities
 
-**Dostarczona wersja:** 2.0.2~ynh1
+**Dostarczona wersja:** 2.0.3~ynh1
 
 ## Zrzuty ekranu
 
