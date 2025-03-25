@@ -3,7 +3,7 @@ Este archivo README esta generado automaticamente<https://github.com/YunoHost/ap
 No se debe editar a mano.
 -->
 
-# Workout Tracker para Yunohost
+# Workout Tracker para YunoHost
 
 [![Nivel de integración](https://apps.yunohost.org/badge/integration/workout-tracker)](https://ci-apps.yunohost.org/ci/apps/workout-tracker/)
 ![Estado funcional](https://apps.yunohost.org/badge/state/workout-tracker)
@@ -20,7 +20,7 @@ No se debe editar a mano.
 
 A workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities
 
-**Versión actual:** 2.1.1~ynh1
+**Versión actual:** 2.2.0~ynh1
 
 ## Capturas
 
