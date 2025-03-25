@@ -20,7 +20,7 @@ EZ editatu eskuz.
 
 A workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities
 
-**Paketatutako bertsioa:** 2.1.1~ynh1
+**Paketatutako bertsioa:** 2.2.0~ynh1
 
 ## Pantaila-argazkiak
 
@@ -36,7 +36,7 @@ A workout tracking web application for personal use (or family, friends), geared
 
 Bidali `pull request`a [`testing` abarrera](https://github.com/YunoHost-Apps/workout-tracker_ynh/tree/testing).
 
-`testing` abarra probatzeko, ondorengoa egin:
+`testing` abarra probatzeko, honakoa egin:
 
 ```bash
 sudo yunohost app install https://github.com/YunoHost-Apps/workout-tracker_ynh/tree/testing --debug
