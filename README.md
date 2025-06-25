@@ -4,13 +4,13 @@ It shall NOT be edited by hand.
 -->
 
 <h1>
-  <img src="https://raw.githubusercontent.com/YunoHost/apps/master/logos/workout-tracker.png" width="32px" alt="Logo of Workout Tracker">
+  <img src="https://raw.githubusercontent.com/YunoHost/apps/main/logos/workout-tracker.png" width="32px" alt="Logo of Workout Tracker">
   Workout Tracker, packaged for YunoHost
 </h1>
 
 A workout tracking web application for personal use (or family, friends) geared towards running and other GPX-based activities
 
-![Version: 2.2.1~ynh1](https://img.shields.io/badge/Version-2.2.1~ynh1-rgba(0,150,0,1)?style=for-the-badge)
+[![Version: 2.3.0~ynh1](https://img.shields.io/badge/Version-2.3.0~ynh1-rgba(0,150,0,1)?style=for-the-badge)](https://ci-apps.yunohost.org/ci/apps/workout-tracker/)
 
 <div align="center">
 <a href="https://apps.yunohost.org/app/workout-tracker"><img height="100px" src="https://github.com/YunoHost/yunohost-artwork/raw/refs/heads/main/badges/neopossum-badges/badge_more_info_on_the_appstore.svg"/></a>
